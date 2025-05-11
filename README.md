@@ -11,3 +11,6 @@ Creating Charts in Excel! This task was all about transforming raw data into mea
   4. Bar Chart: Facilitates comparisons of different categories- "Units Sold & Closing Stock" with clear, discrete data points.
 - Analysis: Each chart is clearly labeled, and I provided a brief analysis of what they represent, highlighting key insights and trends. 
 - Tools Used: Microsoft Excel 
+
+## LinkedIn post 
+https://www.linkedin.com/posts/ajan-kumar-57000b4a_datavisualization-excelcharts-dataanalysis-activity-7319089495272763392-TSXP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApS7WQBtWPThAk_Yx2J4D9VIPRk-YALd3w
